@@ -1,5 +1,4 @@
-Here's a README that covers all important details for the script, including installation instructions, required resources, configuration, and usage information.
-
+#qs-Mining System
 ---
 
 # Mining and Washing System
@@ -19,6 +18,9 @@ A FiveM resource that provides a mining and stone-washing experience. Players ca
 - **ESX Framework**: Ensure you have ESX installed for handling player data and inventory.
 - **ox_target**: For interaction points (e.g., on rocks for mining, on washing location).
 - **ox_lib**: Used for progress circles, input dialogs, and notifications.
+
+## Preview
+- https://youtu.be/fWX0W6A9DBY
 
 ## Installation
 
@@ -113,6 +115,6 @@ Config.Ores = { "copper_ore", "iron_ore", "gold_ore", "crystal_ore", "platinum_o
 - **Permission to Trigger Events**: This script assumes players have the correct permissions to trigger certain events. Adjust as needed for your server.
 - **Database**: This script doesn’t store data in a database; rewards are handled in real-time.
 
----
-
-This guide should help you get up and running with the mining and washing system on your FiveM server!
+## Contact Support:
+- https://discord.gg/zXB37WgjcW
+- https://www.qs-scripts.com
