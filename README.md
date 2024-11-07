@@ -1,7 +1,5 @@
-#qs-Mining System
----
+# qs-Mining System
 
-# Mining and Washing System
 
 A FiveM resource that provides a mining and stone-washing experience. Players can mine rocks, collect stones, and wash them to receive valuable ores. This script uses `ox_target` for interaction and `ox_lib` for progress circles and notifications.
 
